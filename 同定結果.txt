@@ -1,0 +1,8 @@
+y_mean=1.952562
+Please input Umin and Umax for fit
+Umin = 1.8
+Umax = 2.4
+*** Motor parameters ***
+K         = 3.207976
+u_offset  = 1.781277
+OK? (1:Quit, 2:Retry) = 1
